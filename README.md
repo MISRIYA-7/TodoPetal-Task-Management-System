@@ -1,6 +1,6 @@
 # 🌸 Todo Petal - Task Management System
 
-A desktop-based productivity application developed using **Java Swing** and **MySQL** to help users efficiently manage tasks, track goals, organize schedules, save contacts, and securely store passwords.
+A desktop-based productivity application developed using **Java Swing** and **MySQL** to help users efficiently manage tasks, track goals and  organize schedules.
 
 **Developed by:** Nafeesathul Misriya & Ishan Thomas Eapen
 
@@ -9,7 +9,7 @@ A desktop-based productivity application developed using **Java Swing** and **My
 
 ## 📌 Project Overview
 
-Todo Petal is an all-in-one personal productivity platform designed to simplify daily task management through a clean and intuitive interface. The application allows users to manage tasks, track long-term goals, organize schedules, store contacts, and securely save passwords in a single standalone desktop application.
+Todo Petal is an all-in-one personal productivity platform designed to simplify daily task management through a clean and intuitive interface. The application allows users to manage tasks, track long-term goals and  organize schedules in a single standalone desktop application.
 
 The project was developed as part of the B.Tech Computer Science and Engineering curriculum and demonstrates practical implementation of Java GUI development, database management, and software engineering principles.
 
