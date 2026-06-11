@@ -156,16 +156,16 @@ java Main
 
 ## 📸 Screenshots
 
-### Welcome / Login Page
+### Welcome Page
 <img width="1366" alt="Welcome Login Page" src="https://github.com/user-attachments/assets/05069d8c-0efe-472c-92bd-944f12e7680c" />
 
-### Admin Dashboard
+### Login Page
 <img width="1366" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/7aa25506-cc88-45ca-8619-0faa17b2c38f" />
 
-### User Dashboard
+### Admin Dashboard
 <img width="1366" alt="User Dashboard" src="https://github.com/user-attachments/assets/4e053bde-cc85-4fef-b93b-a675d50fcacb" />
 
-### Task Management View
+### User Dashboard
 <img width="1366" alt="Task Management" src="https://github.com/user-attachments/assets/ad5816a9-6bc7-4c68-ac76-144024b31723" />
 
 ### User Settings
