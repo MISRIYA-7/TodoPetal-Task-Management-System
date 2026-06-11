@@ -156,10 +156,10 @@ java Main
 
 ## 📸 Screenshots
 
-### Welcome Page
+### Welcome / Login Page
 <img width="1366" alt="Welcome Login Page" src="https://github.com/user-attachments/assets/05069d8c-0efe-472c-92bd-944f12e7680c" />
 
-### Login Page
+###  Register Page
 <img width="1366" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/7aa25506-cc88-45ca-8619-0faa17b2c38f" />
 
 ### Admin Dashboard
