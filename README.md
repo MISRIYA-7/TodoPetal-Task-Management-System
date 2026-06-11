@@ -41,15 +41,6 @@ The project was developed as part of the B.Tech Computer Science and Engineering
 - Schedule Tracking
 - Deadline Monitoring
 
-### 🔐 Password Saver
-- Store Login Credentials
-- Manage Saved Passwords
-- Secure Data Storage
-
-### 📞 Contact Manager
-- Save Important Contacts
-- Update Contact Information
-- Quick Access to Contacts
 
 ### 🛠️ Admin Dashboard
 - View Registered Users
@@ -105,12 +96,7 @@ contacts
 passwords
 ```
 
-### Relationships
 
-- One User → Many Tasks
-- One User → Many Goals
-- One User → Many Contacts
-- One User → Many Saved Passwords
 
 ---
 
