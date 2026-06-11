@@ -4,7 +4,7 @@ A desktop-based productivity application developed using **Java Swing** and **My
 
 **Developed by:** Nafeesathul Misriya & Ishan Thomas Eapen
 
-**Lead Developer:** Nafeesathul Misriya
+**Lead Developer:** Nafeesathul Misriya  
 **Project Collaborator:** Ishan Thomas Eapen
 
 ## 📌 Project Overview
@@ -245,11 +245,6 @@ java Main
 - LinkedIn: https://www.linkedin.com/in/nafeesathul-misriya7
 - Portfolio: https://misriya-7.github.io/personal-portfolio-website/
 
----
-
-## 📄 License
-
-This project was developed for educational and academic purposes.
 
 ---
 
